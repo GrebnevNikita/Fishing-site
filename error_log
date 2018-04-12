@@ -1,0 +1,25 @@
+[08-Apr-2018 18:25:10 Europe/Moscow] PHP Warning:  include_once(.header.php): failed to open stream: No such file or directory in /home/obwpiouk/the-beautiful-creation.ru/index.php on line 25
+[08-Apr-2018 18:25:10 Europe/Moscow] PHP Warning:  include_once(): Failed opening '.header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/obwpiouk/the-beautiful-creation.ru/index.php on line 25
+[08-Apr-2018 18:25:10 Europe/Moscow] PHP Warning:  include_once(.footer.php): failed to open stream: No such file or directory in /home/obwpiouk/the-beautiful-creation.ru/index.php on line 29
+[08-Apr-2018 18:25:10 Europe/Moscow] PHP Warning:  include_once(): Failed opening '.footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/obwpiouk/the-beautiful-creation.ru/index.php on line 29
+[08-Apr-2018 18:25:40 Europe/Moscow] PHP Warning:  include_once(.header.php): failed to open stream: No such file or directory in /home/obwpiouk/the-beautiful-creation.ru/index.php on line 25
+[08-Apr-2018 18:25:40 Europe/Moscow] PHP Warning:  include_once(): Failed opening '.header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/obwpiouk/the-beautiful-creation.ru/index.php on line 25
+[08-Apr-2018 18:25:40 Europe/Moscow] PHP Warning:  include_once(.footer.php): failed to open stream: No such file or directory in /home/obwpiouk/the-beautiful-creation.ru/index.php on line 29
+[08-Apr-2018 18:25:40 Europe/Moscow] PHP Warning:  include_once(): Failed opening '.footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/obwpiouk/the-beautiful-creation.ru/index.php on line 29
+[08-Apr-2018 18:25:42 Europe/Moscow] PHP Warning:  include_once(.header.php): failed to open stream: No such file or directory in /home/obwpiouk/the-beautiful-creation.ru/index.php on line 25
+[08-Apr-2018 18:25:42 Europe/Moscow] PHP Warning:  include_once(): Failed opening '.header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/obwpiouk/the-beautiful-creation.ru/index.php on line 25
+[08-Apr-2018 18:25:42 Europe/Moscow] PHP Warning:  include_once(.footer.php): failed to open stream: No such file or directory in /home/obwpiouk/the-beautiful-creation.ru/index.php on line 29
+[08-Apr-2018 18:25:42 Europe/Moscow] PHP Warning:  include_once(): Failed opening '.footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/obwpiouk/the-beautiful-creation.ru/index.php on line 29
+[08-Apr-2018 22:33:53 Europe/Moscow] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/obwpiouk/the-beautiful-creation.ru/config.php on line 10
+[08-Apr-2018 22:35:11 Europe/Moscow] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/obwpiouk/the-beautiful-creation.ru/config.php on line 10
+[08-Apr-2018 22:35:31 Europe/Moscow] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (4) in /home/obwpiouk/the-beautiful-creation.ru/config.php on line 10
+[08-Apr-2018 22:35:33 Europe/Moscow] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (4) in /home/obwpiouk/the-beautiful-creation.ru/config.php on line 10
+[08-Apr-2018 22:35:52 Europe/Moscow] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (4) in /home/obwpiouk/the-beautiful-creation.ru/config.php on line 10
+[08-Apr-2018 22:35:54 Europe/Moscow] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (4) in /home/obwpiouk/the-beautiful-creation.ru/config.php on line 10
+[08-Apr-2018 22:35:55 Europe/Moscow] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/obwpiouk/the-beautiful-creation.ru/config.php on line 10
+[09-Apr-2018 00:18:24 Europe/Moscow] PHP Parse error:  syntax error, unexpected '" - Name: "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/obwpiouk/the-beautiful-creation.ru/catalog.php on line 18
+[09-Apr-2018 00:18:51 Europe/Moscow] PHP Fatal error:  Call to a member function query() on null in /home/obwpiouk/the-beautiful-creation.ru/catalog.php on line 13
+[09-Apr-2018 00:21:09 Europe/Moscow] PHP Fatal error:  Call to a member function query() on null in /home/obwpiouk/the-beautiful-creation.ru/catalog.php on line 13
+[09-Apr-2018 00:21:10 Europe/Moscow] PHP Fatal error:  Call to a member function query() on null in /home/obwpiouk/the-beautiful-creation.ru/catalog.php on line 13
+[09-Apr-2018 00:21:11 Europe/Moscow] PHP Fatal error:  Call to a member function query() on null in /home/obwpiouk/the-beautiful-creation.ru/catalog.php on line 13
+[09-Apr-2018 00:21:11 Europe/Moscow] PHP Fatal error:  Call to a member function query() on null in /home/obwpiouk/the-beautiful-creation.ru/catalog.php on line 13
